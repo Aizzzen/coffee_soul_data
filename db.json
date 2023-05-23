@@ -1,0 +1,562 @@
+{
+  "dishes": {
+    "menu_title": "Блюдо",
+    "menu_items": [
+      {
+        "id":  1,
+        "img": "https://i.pinimg.com/originals/0e/bd/24/0ebd24b3ae30011517019b90b258361e.png",
+        "title":  "Овсяная каша с ягодами",
+        "price":  220,
+        "description":  "Овсяные хлопья, сваренные на нежирном молоке с добавлением ванили и сливок 33% для пикантного послевкусия, украшенные гранолой, кокосовой стружкой и свежими ягодами"
+      },
+      {
+        "id": 2,
+        "img": "https://kizk.ru/upload/iblock/7f4/7f4563f185a08d05e9a08dcbbde94791.jpg",
+        "title": "Пряная рисовая каша",
+        "price": 220,
+        "description": "Рис, сливки, молоко, арахисовая паста, банан и корица"
+      },
+      {
+        "id": 3,
+        "img": "https://w0.peakpx.com/wallpaper/6/96/HD-wallpaper-pancakes-dessert-fruit-chocolate-hand.jpg",
+        "title": "Панкейки",
+        "price": 350,
+        "description": "Панкейки м нутеллой / с чиа / с кокосовым кремом / с банановым кремом ( на выбор )"
+      },
+      {
+        "id": 4,
+        "img": "https://kizk.ru/upload/iblock/96f/96f697242f693b5e4dad5ff28dec7ae3.jpg",
+        "title": "Вафли",
+        "price": 280,
+        "description": "Вафли с нутеллой / с бананово-смородиновым кремом ( на выбор )"
+      },
+      {
+        "id": 5,
+        "img": "https://sun9-9.userapi.com/impf/iraYZS33YsmnjntaeDuuZcRLeIRifTcUz0oVbA/hREfZ1pZ7CQ.jpg?size=800x1000&quality=96&sign=8c89eabd96634edf3722eee1c4b0778f&c_uniq_tag=3zGEpckkxTximvvBWTSw50xB-N_7jYTexpjU3MlCzrE&type=album",
+        "title": "Сырники",
+        "price": 350,
+        "description": "Сырники с кокосовым кремом / с соусом из семян чиа и вишней ( на выбор )"
+      },
+      {
+        "id": 6,
+        "img": "https://vraki.net/sites/default/files/test/1_2_1_39.jpg",
+        "title": "Английский завтрак",
+        "price": 220,
+        "description": "Глазунья, баварская фасоль в томате, обжаренные вешенки, свежая руккола и обжаренные тосты со злаками"
+      },
+      {
+        "id": 7,
+        "img": "https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/ff6692-image-kwvyjjdj.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=2040465c5197153b09085f8ec10650b1",
+        "title": "Глазунья с лососем",
+        "price": 420,
+        "description": "Глазунья со слабосоленым лососем, нарезанный слайсами, салат из свежей рукколы и фиолетовой капусты, помидоров черри, заправленный авторским маслом холодного отжима и сыром креметта"
+      },
+      {
+        "id": 8,
+        "img": "https://img.buzzfeed.com/buzzfeed-static/static/2015-09/24/12/enhanced/webdr08/original-322-1443111941-10.png",
+        "title": "Салат с креветками и киноа",
+        "price": 450,
+        "description": "Салат из свежей рукколы и киноа, заправленный оливковым маслом, специями, сыром креметта, с добавлением пикантных обжаренных креветок, авокадо, помидоров черри, слайсов пармезана и украшенный обжаренными тыквенными семечками"
+      },
+      {
+        "id": 9,
+        "img": "https://i.pinimg.com/originals/6e/9a/af/6e9aaf95e2c41f97631b4259b882c555.jpg",
+        "title": "Салат с лососем и авторским соусом",
+        "price": 450,
+        "description": "Салат из свежей рукколы и стручковой фасоли, с добавлением авторского соуса на натуральном йогурте, оливках, укропе, оливковом масле и лимонном соусе, с запеченным лососем и вареным яйцом"
+      },
+      {
+        "id": 10,
+        "img": "https://cleanfoodcrush.com/wp-content/uploads/2019/04/Eat-Clean-Broccoli-Mushroom-Beef-Stir-fry-800x1000.jpg",
+        "title": "Теплый салат с брокколи и говядиной",
+        "price": 320,
+        "description": "Салат из рукколы, обжаренной цветной и брюссельской капусты, стручковой фасоли и маринованной говядины су-вид, подаваемый с обжаренными тостами со злаками"
+      },
+      {
+        "id": 11,
+        "img": "https://data.thefeedfeed.com/static/2020/09/08/15995538235f57411fb1e76.png",
+        "title": "Бефстроган",
+        "price": 320,
+        "description": "Пикантная вырезка, вешенки, лук репчатый, сливки, демиглас и воздушное пюре"
+      },
+      {
+        "id": 12,
+        "img": "https://sxodim.com/uploads/images/2021/11/02/optimized/58f61cac29b8dd9f2406eb8e26a2a539_800xauto-q-85.jpg",
+        "title": "Хумус",
+        "price": 360,
+        "description": "Пюре из хумуса с вялеными помидорами черри, заправленное оливковым маслом"
+      },
+      {
+        "id": 13,
+        "img": "https://www.bigsams.in/wp-content/uploads/2019/05/One-Pan-Garlic-Butter-Salmon-and-Veggies.png",
+        "title": "Филе лосося с кус-кусом",
+        "price": 600,
+        "description": "Запеченное филе лосося, кус-кус, вешенки, сливки и соус демиглас"
+      },
+      {
+        "id": 14,
+        "img": "https://www.peta.org/wp-content/uploads/2015/08/chickpea-salad.jpg",
+        "title": "Скрембл на тосте",
+        "price": 180,
+        "description": "Омлет средней готовности на обжаренном тосте со злаками, плавленым сыром, грецким орехом, украшенный свежей рукколой и тыквенными семечками"
+      },
+      {
+        "id": 15,
+        "img": "https://i.pinimg.com/originals/73/2a/b3/732ab38a57f08f43a3e1656d00c7e8b2.jpg",
+        "title": "Брускетта с лососем и авокадо",
+        "price": 450,
+        "description": "Хлеб на живой закваске, лосось, креметта, яйцо пашот, красная икра и авокадо"
+      },
+      {
+        "id": 16,
+        "img": "https://i.pinimg.com/originals/e3/c9/8f/e3c98ffa6bf69296f7c60d1418667f2d.jpg",
+        "title": "Сэндвич с лососем",
+        "price": 350,
+        "description": "Лосось, хлеб на живой закваске, руккола, креметта и огурцы"
+      },
+      {
+        "id": 17,
+        "img": "https://i.pinimg.com/originals/1c/ad/79/1cad79afc8488ec5acae1eb7647479f5.jpg",
+        "title": "Сэндвич с тунцом",
+        "price": 220,
+        "description": "Обжаренный пшеничный тост на гриле, с добавлением сметанного соуса, свежей рукколы, помидоров и консервированного тунца"
+      },
+      {
+        "id": 18,
+        "img": "https://data.parkbench.com/content/data/businesses/6/a/b/7/b/NjAweDYwMA--_6ab7bd812aeee20c56a0bc2d8159276b.jpg",
+        "title": "Сэндвич с курицей и копченым сыром",
+        "price": 220,
+        "description": "Обжаренный пшеничный тост на гриле, с добавлением авторского соуса \" Цезарь \", курицы су-вид, копченого сыра, свежих помидоров и рукколы"
+      },
+      {
+        "id": 19,
+        "img": "https://i.pinimg.com/originals/da/40/e3/da40e333dae2d6f2f5e5d1435c5c32d2.jpg",
+        "title": "Сэндвич с ветчиной и вешенками",
+        "price": 220,
+        "description": "Обжаренный пшеничный тост с добавлением сметанного соуса, свежей рукколы, говяжьей ветчины, свежих помидоров и обжаренных вешенок в соевом соусе"
+      }
+    ]
+  },
+  "dessert": {
+    "menu_title": "Десерты",
+    "menu_items": [
+      {
+        "id":  1,
+        "img": "https://ic.pics.livejournal.com/anna124376/86541798/174205/174205_1000.jpg",
+        "title":  "Чизкейк классический",
+        "price":  150,
+        "description":  "Тонкая песочная основа и в меру нежный, в меру плотный сырный слой, состоящий из сливочного сыра, жирных сливок и небольшого количества сахара"
+      },
+      {
+        "id":  2,
+        "img": "https://i.pinimg.com/originals/39/95/64/399564b5e76e1007aa21fa546881d95c.jpg",
+        "title":  "Баскский чизкейк",
+        "price":  180,
+        "description":  "Интересное сочетание обожженной снаружи сырной корочки и нежной, едва соленой, начинки. Натуральная ваниль и ягодный джем делают вкус еще изысканней"
+      },
+      {
+        "id":  3,
+        "img": "https://whereiscake.com/media/wz0czyze/cakes_spirit-04032021-1.jpg?width=800&amp;mode=crop&amp;bgcolor=ffffff",
+        "title":  "Брауни с вишневой начинкой",
+        "price":  150,
+        "description":  "Сочный шоколадный бисквит с добавлением насыщенного темного шоколада, нежная сливочная прослойка и свежая вишня"
+      },
+      {
+        "id":  4,
+        "img": "https://i.pinimg.com/originals/a6/2b/84/a62b84dc46e5c2b24fcec1e7bf3265bd.jpg",
+        "title":  "Профитроли с ванильным кремом",
+        "price":  70,
+        "description":  "Тонкое несладкое заварное тесто и классический ванильный крем патисьер (заварной крем)"
+      },
+      {
+        "id":  5,
+        "img": "https://karmelpilates.com/wp-content/uploads/6/e/4/6e4eddd7cd4b77207848c634f7f112a0.jpeg",
+        "title":  "Три молока",
+        "price":  100,
+        "description":  "Пышный, нежнейший ванильный бисквит, пропитанный тремя видами молока, с посыпкой из поджаренных лепестков свежего миндаля"
+      },
+      {
+        "id":  6,
+        "img": "https://sun9-45.userapi.com/impg/9G1l5tK4BFMJoHTnaQlfGGZNotrxCG8XPahajQ/ZGLPZ196fbI.jpg?size=800x1000&quality=95&sign=9a1afd5823f2ae3565109a2198335062&c_uniq_tag=45VFrG3VD-AduWs6ut4qoHveg5oZyHMrms03c2uHUqo&type=album",
+        "title":  "Фисташковый рулет",
+        "price":  220,
+        "description":  "Воздушная меренга, фисташка, взбитый фисташковый крем и много сочной ягоды"
+      },
+      {
+        "id":  7,
+        "img": "https://i.pinimg.com/originals/4a/e3/ca/4ae3cab9843360a207e25c1ada281077.jpg",
+        "title":  "Банановый кекс",
+        "price":  80,
+        "description":  "Традиционный ароматнейший и сочный европейский Banana Bread с добавлением 2-х видов шоколада и темного изюма, украшенного карамелизированным бананом"
+      },
+      {
+        "id":  8,
+        "img": "https://drazhin.by/assets/images/products/83/large/dv5a4859.jpg",
+        "title":  "Лимонный кекс",
+        "price":  80,
+        "description":  "Классический лимонный кекс, очень нежный и рассыпчатый за счет добавления сливок, обильно пропитан лимонным сиропом"
+      },
+      {
+        "id":  9,
+        "img": "https://superpuper.ru/images/lots/75/fd/e130d5b000c7ecb546a6ebdef887.jpg",
+        "title":  "Фисташковая тарталетка",
+        "price":  200,
+        "description":  "Песочное тесто, фисташковый франжипан, слой нежнейшей соленой карамели из бельгийского карамельного шоколада и сливок, покрытая воздушным взбитым фисташковым кремом из сыра маскарпоне и сливок, украшена малиной и соленой фисташкой"
+      },
+      {
+        "id":  10,
+        "img": "https://bazaarvietnam.vn/wp-content/uploads/2021/03/BZ-chocolate-hormone-hanh-phuc-pastry_creation_1.jpg",
+        "title":  "Шоколадная тарталетка",
+        "price":  170,
+        "description":  "Песочное тесто, слой шоколадного франжипана, кофейно-сливочная прослойка, покрытая шоколадным ганашем из бельгийского шоколада и украшенная карамелизированными орехами - пекан и миндаль"
+      },
+      {
+        "id":  11,
+        "img": "https://foodmood.ru/upload/iblock/52d/52da457ee1926a6a3f29f02c4107ce7a.jpg",
+        "title":  "Тарталетка с голубикой",
+        "price":  170,
+        "description":  "Песочное тесто, миндальный франжипан со свежей смородиной и ванильным заварным кремом на сливках с отзвуком корицы, украшена сезонными ягодами"
+      },
+      {
+        "id":  12,
+        "img": "https://whereiscake.com/media/pamjga1c/mykindofhobby-24022021-2.jpg?width=800&amp;mode=crop&amp;bgcolor=ffffff",
+        "title":  "Печенье \"Бискотти\"",
+        "price":  60,
+        "description":  "Хрустящее, но мягкое внутри итальянское печенье, с авторским добавлением цедры апельсина, фисташек и миндаля"
+      },
+      {
+        "id":  13,
+        "img": "https://balthazar.club/uploads/posts/2023-01/1674766281_balthazar-club-p-dvoinoi-shokolad-instagram-9.jpg",
+        "title":  "Печенье \"Двойной шоколад\"",
+        "price":  100,
+        "description":  "Шоколадное печенье без добавления лишних ингредиентов. В составе бельгийский темный и бельгийский молочный шоколад"
+      },
+      {
+        "id":  14,
+        "img": "https://balthazar.club/uploads/posts/2022-10/1666342202_11-balthazar-club-p-tresnutoe-pechene-brauni-instagram-11.jpg",
+        "title":  "Печенье \"ПП Брауни\"",
+        "price":  100,
+        "description":  "Тающее во рту шоколадное печенье без сахара и глютена. В составе бельгийский темный шоколад и рисовая мука. Идеальное правильное печенье"
+      },
+      {
+        "id":  15,
+        "img": "https://i.pinimg.com/originals/61/8d/6d/618d6d6e3308f1c82ead75d35718fc1d.jpg",
+        "title":  "ПП Конфета \"Кунжут\"",
+        "price":  70,
+        "description":  "Курага, королевский финик, грецкий орех, изюм, мед, какао, цедра лимона и кунжут, который является лидером по содержанию кальция среди всех продуктов"
+      },
+      {
+        "id":  16,
+        "img": "https://i.pinimg.com/originals/53/76/8d/53768d4811c01ae0c128d40519d963e0.jpg",
+        "title":  "Трюфели",
+        "price":  70,
+        "description":  "Изысканная классика Франции. Сливочный трюфель на основе белого бархатного бельгийского шоколада никого не оставит равнодушным. Представлен в трех вкусах: кофейный трюфель с добавлением свежего эспрессо / какаю трюфель с добавлением насыщенного натурального какао / матча-фисташка трюфель, для любителей необычных вкусов, с добавлением зелёного матча-чая"
+      }
+    ]
+  },
+  "teas": {
+    "menu_title": "Чаи 500мл",
+    "menu_items": [
+      {
+        "id":  1,
+        "img": "https://i.pinimg.com/originals/91/ac/ae/91acae744956980f7012ed54af0713ac.jpg",
+        "title":  "Клубничный чай",
+        "price":  250,
+        "description":  "Клубничный джем, чай каркаде, дольки лайма и мята"
+      },
+      {
+        "id":  2,
+        "img": "https://i.pinimg.com/originals/39/67/35/3967358f7b7f7b7c956dcfbd6b310131.jpg",
+        "title":  "Грейпфрутовый чай",
+        "price":  250,
+        "description":  "Авторский сироп из грейпфрута, дольки апельсина и розмарин"
+      },
+      {
+        "id":  3,
+        "img": "https://avatars.dzeninfra.ru/get-zen_brief/6607387/pub_629ce3ca818daf1a0e26a8f0_629ce43c4e55a9448dd603da/scale_1200",
+        "title":  "Черный чай",
+        "price":  200,
+        "description":  "Классический черный чай"
+      },
+      {
+        "id":  4,
+        "img": "https://valles.ru/upload/iblock/269/26972_caea0a73c126e149eafe570afd6bdaec.jpg",
+        "title":  "Граф Грей",
+        "price":  200,
+        "description":  "Черный чай с бергамотом"
+      },
+      {
+        "id":  5,
+        "img": "https://homemaderecipes.com/wp-content/uploads/2017/01/apple-cranberry-tea-hot-tea-recipes.jpg",
+        "title":  "Дикая вишня",
+        "price":  200,
+        "description":  "Черный чай с сушеной вишней"
+      },
+      {
+        "id":  6,
+        "img": "http://1.nerman.ws/images/upload/3506.jpg",
+        "title":  "Чай с облепихой",
+        "price":  200,
+        "description":  "Черный чай с сушеной облепихой"
+      },
+      {
+        "id":  7,
+        "img": "https://econet.ru/uploads/pictures/310037/content_chay2__econet_ru.jpeg",
+        "title":  "Пуэр",
+        "price":  200,
+        "description":  "Классический пуэр"
+      },
+      {
+        "id":  8,
+        "img": "https://c1.35photo.pro/photos_temp/sizes/869/4346650_1000n.jpg",
+        "title":  "Зеленый чай",
+        "price":  200,
+        "description":  "Классический зеленый чай"
+      },
+      {
+        "id":  9,
+        "img": "https://i.pinimg.com/originals/78/a1/c6/78a1c60d4bc8e78d8e9724e8a48dc024.jpg",
+        "title":  "Зеленый чай с имбирем",
+        "price":  200,
+        "description":  "Зеленый чай с сушеным имбирем"
+      },
+      {
+        "id":  10,
+        "img": "https://tianren.ru/upload/medialibrary/2d1/2f2u4ia5w4dw4crm5gezq955sjlpkc99.jpg",
+        "title":  "Молочный улун",
+        "price":  200,
+        "description":  "Разновидность зеленого чая"
+      },
+      {
+        "id":  11,
+        "img": "https://static.wixstatic.com/media/nsplsh_356b623048775448715467~mv2_d_3358_4197_s_4_2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpg",
+        "title":  "Улыбка Гейши",
+        "price":  200,
+        "description":  "Разновидность зеленого чая"
+      },
+      {
+        "id":  12,
+        "img": "https://glav-dacha.ru/wp-content/uploads/2021/12/poleznye-svoystva-i-protivopokazaniya-granatovogo-soka-1.jpg",
+        "title":  "Наглый фрукт",
+        "price":  200,
+        "description":  "Фруктовый чай с небольшой кислинкой"
+      }
+    ]
+  },
+  "beverages": [
+    {
+      "id": 1,
+      "menu_title": "Напитки 250мл",
+      "menu_items": [
+        {
+          "id": 1,
+          "img": "https://i.pinimg.com/originals/63/02/17/63021750c5e420b0b200e089b1bc7991.jpg",
+          "title": "Американо",
+          "price": 120,
+          "description": "Классический черный кофе"
+        },
+        {
+          "id": 2,
+          "img": "https://brewingalpha.com/wp-content/uploads/2021/09/chemex.jpg",
+          "title": "Фильтр-Кофе",
+          "price": 150,
+          "description": "Альтернативный черный кофе"
+        },
+        {
+          "id": 3,
+          "img": "https://images.squarespace-cdn.com/content/v1/5bbd67d490f9042649da280e/97a1f0f3-7774-4883-91bb-3349f660b40d/aeropress-coffee-maker.jpg",
+          "title": "Аэйропресс",
+          "price": 150,
+          "description": "Черный кофе на альтернативном заваривании"
+        },
+        {
+          "id": 4,
+          "img": "https://i.pinimg.com/originals/a3/f6/2b/a3f62ba780811559d89a8d13bba1b089.jpg",
+          "title": "v 60",
+          "price": 150,
+          "description": "Черный кофе на альтернативном заваривании"
+        },
+        {
+          "id": 5,
+          "img": "https://avatars.mds.yandex.net/i?id=1af04e3ec8ebd54c361527f180968278f7a77041-7757621-images-thumbs&n=13",
+          "title": "Эспрессо",
+          "price": 120,
+          "description": "Очень крепкий кофейный напиток объемом 30-40 мл"
+        },
+        {
+          "id": 6,
+          "img": "https://imgix.theurbanlist.com/content/article/Beijing_China_Coffee.jpg",
+          "title": "Капучино",
+          "price": 150,
+          "description": "Кофейный напиток средней крепости со вспененным молоком"
+        },
+        {
+          "id": 7,
+          "img": "https://c.pxhere.com/photos/76/1e/coffee_cappuccino_advent_romantic_atmosphere_candles-1292315.jpg!s2",
+          "title": "Шоколадный капучино",
+          "price": 160,
+          "description": "Кофейный напиток средней крепости со вспененным молоком, шоколадным сиропом и посыпанный сверху тертым шоколадом"
+        },
+        {
+          "id": 8,
+          "img": "https://sofasteveryday.com/wp-content/uploads/2022/03/Flat-White-002-1.jpg",
+          "title": "Флэт Уайт",
+          "price": 150,
+          "description": "Кофейный напиток высокой крепости со вспененным молоком"
+        },
+        {
+          "id": 9,
+          "img": "https://sofasteveryday.com/wp-content/uploads/2022/03/Matcha-Latte-001.jpg",
+          "title": "Латте матча чай",
+          "price": 150,
+          "description": "Японский чай \" Матча \" со вспененным молоком"
+        },
+        {
+          "id": 10,
+          "img": "https://static.wixstatic.com/media/4054d3_9a11ef58a8a346d59d55c859b0e4a94a~mv2.jpg/v1/fit/w_1000%2Ch_1000%2Cal_c%2Cq_80/file.jpg",
+          "title": "Горячий шоколад",
+          "price": 150,
+          "description": "Молочный шоколадный напиток смешанный с тертым шоколадом и шоколадным сиропом"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "menu_title": "Напитки 330мл",
+      "menu_items": [
+        {
+          "id": 1,
+          "img": "src",
+          "title": "Капучино",
+          "price": 170,
+          "description": "Кофейный напиток средней крепости со вспененным молоком"
+        },
+        {
+          "id": 2,
+          "img": "src",
+          "title": "Шоколадный капучино",
+          "price": 180,
+          "description": "Кофейный напиток средней крепости со вспененным молоком, шоколадным сиропом и посыпанный сверху тертым шоколадом\n"
+        },
+        {
+          "id": 1,
+          "img": "src",
+          "title": "Капучино",
+          "price": 170,
+          "description": "Кофейный напиток средней крепости со вспененным молоком"
+        },
+        {
+          "id": 3,
+          "img": "src",
+          "title": "Латте",
+          "price": 170,
+          "description": "Кофейный напиток слабой крепости со вспененным молоком"
+        },
+        {
+          "id": 4,
+          "img": "src",
+          "title": "Латте Карамель",
+          "price": 180,
+          "description": "Кофейный напиток слабой крепости со вспененным молоком и карамельным сиропом"
+        },
+        {
+          "id": 5,
+          "img": "src",
+          "title": "Латте Соленая Карамель",
+          "price": 180,
+          "description": "Кофейный напиток слабой крепости со вспененным молоком и сиропом \"Соленая Карамель\""
+        },
+        {
+          "id": 6,
+          "img": "src",
+          "title": "Латте Матча Чай",
+          "price": 180,
+          "description": "Японский чай \" Матча \" со вспененным молоком"
+        },
+        {
+          "id": 7,
+          "img": "src",
+          "title": "Классический Раф",
+          "price": 200,
+          "description": "Кофейный напиток средней крепости со вспененными сливками"
+        },
+        {
+          "id": 8,
+          "img": "src",
+          "title": "Лавандовый Раф",
+          "price": 200,
+          "description": "Кофейный напиток средней крепости со вспененными сливками и сушеной лавандой"
+        },
+        {
+          "id": 9,
+          "img": "src",
+          "title": "Апельсиновый Раф",
+          "price": 200,
+          "description": "Кофейный напиток средней крепости со вспененными сливками и апельсиновым порошком"
+        },
+        {
+          "id": 10,
+          "img": "src",
+          "title": "Цитрусовый Раф",
+          "price": 200,
+          "description": "Кофейный напиток средней крепости со вспененными сливками и авторской цитрусовой заготовкой"
+        },
+        {
+          "id": 11,
+          "img": "src",
+          "title": "Горячий Шоколад",
+          "price": 170,
+          "description": "Молочный шоколадный напиток смешанный с тертым шоколадом и шоколадным сиропом"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "menu_title": "Холодные напитки",
+      "menu_items": [
+        {
+          "id": 1,
+          "img": "src",
+          "title": "Апельсиновый фреш",
+          "price": 180,
+          "description": "Бутилированный апельсиновый фреш"
+        },
+        {
+          "id": 2,
+          "img": "src",
+          "title": "Фраппе",
+          "price": 140,
+          "description": "Кофейный напиток с льдом и молоком"
+        },
+        {
+          "id": 3,
+          "img": "src",
+          "title": "Карамельный фраппе",
+          "price": 150,
+          "description": "Кофейный напиток со льдом, молоком и карамельным сиропом"
+        },
+        {
+          "id": 4,
+          "img": "src",
+          "title": "Карамельный фраппучино",
+          "price": 180,
+          "description": "Кофейный напиток со льдом, молоком, карамельным сиропом, украшенный взбитыми сливками и карамельным топпингом"
+        },
+        {
+          "id": 5,
+          "img": "src",
+          "title": "Шоколадный фраппе",
+          "price": 150,
+          "description": "Кофейный напиток со льдом, молоком и шоколадным сиропом"
+        },
+        {
+          "id": 6,
+          "img": "src",
+          "title": "Шоколадный фраппучино",
+          "price": 180,
+          "description": "Кофейный напиток со льдом, молоком, шоколадным сиропом, украшенный взбитыми сливками и шоколадным топпингом"
+        }
+      ]
+    }
+  ]
+}
